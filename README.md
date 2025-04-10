@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Duck!
+# Hi, I'm Duck!
 
-## 🌟 About Me  
+## About Me  
 Just trying to learn something
 
 ---
 
-## 💡 Skills  
+## Skills  
 - **Languages**: Python, JS, C/C++ 
 - **Interests**: British books
 ---
